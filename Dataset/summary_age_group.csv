@@ -1,0 +1,6 @@
+Age_Group,total_customers,churned_customers,churn_rate_pct
+30-39,4346,473,10.88
+40-49,2618,806,30.79
+50-59,869,487,56.04
+60+,526,147,27.95
+Under 30,1641,124,7.56

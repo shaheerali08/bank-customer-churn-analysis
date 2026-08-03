@@ -4,7 +4,6 @@
 Customer attrition poses a critical revenue risk for retail banking services. This project presents an end-to-end diagnostic analysis of **10,000 customer records** to identify key drivers of customer churn. By engineering custom metrics and feature tiers in SQL and developing an interactive Tableau dashboard, this project delivers actionable business recommendations to mitigate customer loss.
 
 🔗 Interactive Tableau Dashboard:
-![Bank Customer Churn Dashboard](assets/dashboard_preview.png)
 https://public.tableau.com/app/profile/syed.shaheer.ali/viz/Projectdashboard_17847251138120/Dashboard1?publish=yes
 
 ---
